@@ -35,10 +35,9 @@ I’ve completed:
 I love mixing **game dev creativity** with **web dev logic** — turning ideas into fun, functional projects!
 
 ---
-
 ## 📊 GitHub Stats  
-![Hamster Systems GitHub stats](https://github-readme-stats.vercel.app/api?username=Hamster-Systems&show_icons=true&theme=tokyonight)
+![Charley's GitHub stats](https://github-readme-stats.vercel.app/api?username=Coldalliance&show_icons=true&theme=tokyonight)
 
 ## 💻 Most Used Languages  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamster-Systems&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Coldalliance&layout=compact&theme=tokyonight)
 
